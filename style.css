@@ -1,0 +1,40 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#header{
+	width: 100%;
+	height: 200px;
+	background: #c0c0c0;
+	float: left;
+}
+#upper-menu{
+	width: 100%;
+	height: 50px;
+	background: #00ffff;
+	float: left;
+}
+#left-menu{
+	width: 20%;
+	height: 380px;
+	background: #808000;
+	float: left;
+}
+#content{
+	width: 60%;
+	height: 380px;
+	background: #ffffff;
+	float: left;
+}
+#right-menu{
+	width: 20%;
+	height: 380px;
+	background: #808000;
+	float: left;
+}
+#footer{
+	width: 100%;
+	height: 100px;
+	background: #c0c0c0;
+	float: left;
+}
